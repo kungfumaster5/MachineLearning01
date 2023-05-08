@@ -7,7 +7,7 @@ import sklearn
 # 在进行机器学习任务时并不需要实现算法，只需要简单的调用sklearn库中提供的模块就能完成大多数的机器学习任务。
 # sklearn库是在Numpy、Scipy和matplotlib的基础上开发而成的，因此在介绍sklearn的安装前，需要先安装这些依赖库。
 #
-# 2.Numpy(Numerical Pythonl的缩写)是一个开源的Python科学计算库。在Python中虽然提供了list容器和array模块，
+# 2.Numpy(Numerical Python的缩写)是一个开源的Python科学计算库。在Python中虽然提供了list容器和array模块，
 # 但这些结构并不适合于进行数值计算，因此需要借助于Numpy库创建常用的数据结构（如：多维数组，矩阵等）以及进行常用的科学计算（如：矩阵运算）。
 #
 # 3.Scipy库是sklearn库的基础，它是基于Numpy的一个集成了多种数学算法和函数的Python模块。它的不同子模块有不同的应用，如：积分、插值、优化和信号处理等。
