@@ -11,8 +11,7 @@
 # dtype —— 输出数组的类型。 如果未给出dtype，则从其他输入参数推断数据类型。
 
 # 3.返回：
-# arange：ndarray
-# 均匀间隔值的数组，结果的长度为ceil((stop - start)/step)
+# ndarray: 均匀间隔值的数组，结果的长度为ceil((stop - start)/step)
 # 注意：对于浮点参数（参数为浮点），由于浮点溢出，此规则可能导致最后一个元素>=stop。因此要特别注意
 
 # 4.实例
